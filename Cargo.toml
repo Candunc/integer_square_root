@@ -1,0 +1,6 @@
+[package]
+name = "integer_square_root"
+version = "0.1.0"
+authors = ["Duncan Bristow <duncan_bristow@candunc.com>"]
+
+[dependencies]
